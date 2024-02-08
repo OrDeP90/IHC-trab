@@ -1,0 +1,606 @@
+.Texto2 {
+    /* Aqui estão alguns profissionais recomendados em São Carlos: */
+
+    position: absolute;
+    width: 568px;
+    height: 126px;
+    left: 80px;
+    top: 220px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+}
+
+.Psicologo {
+    position: absolute;
+    width: 625px;
+    height: 625px;
+    left: 588px;
+    top: -90px;
+    z-index: 2;
+}
+
+.psicologo1 {
+    position: absolute;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    color: #003802;
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 562px;
+    height: 142px;
+    left: 66px;
+    top: 420px;
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.psicologo2 {
+    /* Carla Fernanda Simão (16) 99728-7615 */
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 562px;
+    height: 142px;
+    left: 651px;
+    top: 420px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.opcoes {
+    /* Aqui estão algumas opções: */
+
+    position: absolute;
+    width: 568px;
+    height: 42px;
+    left: 60px;
+    top: 230px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+}
+
+
+.corrida {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    color: #003802;
+
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 47px;
+    top: 340px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.luta {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    color: #003802;
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 458px;
+    top: 340px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.natacao {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    color: #003802;
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 54px;
+    top: 460px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.academia {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    color: #003802;
+
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 458px;
+    top: 460px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ciclismo {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 863px;
+    top: 460px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mulherCorrendo {
+    position: absolute;
+    width: 366px;
+    height: 366px;
+    left: 863px;
+    top: 100px;
+}
+
+.mulherCozinhando {
+    position: absolute;
+    width: 433px;
+    height: 433px;
+    left: 828px;
+    top: 45px;
+}
+
+.avalie {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #DDFFDE;
+
+    position: absolute;
+    width: 613px;
+    height: 74px;
+    left: 333px;
+    top: 620px;
+
+    background: #2D4A2E;
+    border-radius: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.titulo {
+
+    position: absolute;
+    width: 911px;
+    height: 218px;
+    left: 184px;
+    top: 0px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+}
+
+
+.mulherMeditando {
+    position: absolute;
+    width: 727px;
+    height: 304px;
+    left: 261px;
+    top: 170px;
+}
+
+.meditar {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 222px;
+    top: 480px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socializar {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 369.69px;
+    height: 89px;
+    left: 686px;
+    top: 480px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.metas {
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 457px;
+    height: 89px;
+    left: 411px;
+    top: 600px;
+
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.botaoSeta {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    left: 1150px;
+    top: 600px;
+}
+
+.agradece {
+    /* Group 27 */
+
+    position: absolute;
+    width: 912px;
+    height: 500px;
+    left: 196px;
+    top: 497px;
+
+
+    /* container */
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 912px;
+    height: 500px;
+    left: 196px;
+    top: 497px;
+
+    /* GLASS */
+    background: linear-gradient(180deg, rgba(235, 255, 236, 0.4) 0%, rgba(245, 255, 246, 0.4) 100%);
+    border: 4px solid #003802;
+    backdrop-filter: blur(100px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 100px;
+
+    padding: 70px;
+
+    /* Obrigada pela sua avaliação, até a próxima! */
+
+    position: absolute;
+    width: 808.94px;
+    height: 94px;
+    left: 248px;
+    top: 573px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mulherAgradecendo {
+    /* Sprout-pana 1 */
+
+    position: absolute;
+    width: 730px;
+    height: 730px;
+    left: 275px;
+    top: -63px;
+
+}
+
+.deNota {
+    /* Como você avalia a sua experiência comigo? */
+
+    position: absolute;
+    width: 922px;
+    height: 105px;
+    left: 179px;
+    top: 50px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #003802;
+
+
+}
+
+.fotoSimNao {
+    /* Group 17 */
+
+
+    /* Yes or no-pana 1 */
+
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    left: 491px;
+    top: 140px;
+    
+
+}
+
+.enviar {
+    /* Group 16 */
+
+    position: absolute;
+    width: 613px;
+    height: 74px;
+    left: 333px;
+    top: 600px;
+
+
+
+    /* Rectangle 7 */
+
+    position: absolute;
+    width: 613px;
+    height: 74px;
+    left: 333px;
+    top: 600px;
+
+    background: #2D4A2E;
+    border-radius: 40px;
+
+
+    /* ENVIAR */
+
+    position: absolute;
+    width: 130px;
+    height: 38px;
+    left: 575px;
+    top: 600px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.08em;
+
+    color: #DDFFDE;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+
+}
+
+
+
+.star-rating {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Ajuste a posição do componente conforme necessário */
+  margin-top: 70px; /* Move o componente para baixo */
+  margin-left: 300px; /* Move o componente para a direita */
+  margin-right: 440px; /* Move o componente para a esquerda */
+  }
+  
+  .star {
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out; 
+  }
+  
+  .star:hover {
+    transform: scale(1.1); 
+  }
+
+  .estrela10{
+    margin-top: 40vh;
+   margin-left: -30vh;
+
+  }
+  
